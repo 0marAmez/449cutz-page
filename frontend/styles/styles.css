@@ -44,7 +44,7 @@ nav ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
-    background-color: #444;
+    background-color: #ae3a3a;
     padding: 10px 0;
 }
 
@@ -58,6 +58,7 @@ nav a {
 }
 
 section {
+    text-align: center;
     padding: 20px;
     background-color: #fff;
     margin: 20px;
